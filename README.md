@@ -1,4 +1,4 @@
-# 1917: whirlwind of revolution
+# 1917: whirlwind of revolution 
 
 an interactive telegram bot based on the events of the russian revolution of 1917.
 
